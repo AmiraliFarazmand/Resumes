@@ -1,5 +1,5 @@
 
- 
+ <html>
 ## Hi !
 
 # My name is  _Amirali Farazmand_ and this is my first github repository!
@@ -27,6 +27,17 @@
 - [Instagram](https://www.instagram.com/amiralifrzmnd/)
 - [my E-mail](amiralifm1407@gmail.com)
 
+
+
+
+
+![Image of Fightclub](https://i.pinimg.com/originals/3d/a2/e1/3da2e1aed80c57e7d38e13e4ca4f596d.jpg)
+
+
+ <br>
+ <h3><head>p.s:
+  <h4>thanks to <b> GitHub </b> to give me much otions to design this webpage and also for their good guide in  <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">this link </a>about markdown! 
+  </br>
 
 
 
