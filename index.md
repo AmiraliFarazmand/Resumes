@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Hi
 
-You can use the [editor on GitHub](https://github.com/AmiraliFarazmand/Resumes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is *_Amirali Farazmand_* and this is my first github repository
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
