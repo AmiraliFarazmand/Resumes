@@ -1,8 +1,8 @@
-## Hi
+## Hi!
 
-My name is *_Amirali Farazmand_* and this is my first github repository
+<block qoute>My name is <b>*Amirali Farazmand* <\b> and this is my first github repository!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've been born in Isfahan but I've lived in Tehran since I was 5.
 
 ### Markdown
 
