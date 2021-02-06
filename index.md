@@ -1,14 +1,20 @@
-##Hi !
+# Hi !
 
-####My name is <b>*Amirali Farazmand*  and this is my first github repository!
+#### My name is __**Amirali Farazmand**__ and this is my first github repository!
 
 I've been born in Isfahan but I've lived in Tehran since I was 5.
 
-### Status
+### Status:
+Now,at the age of 19,I'm a student of C.E at IUST university.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+# I'm intrested in:
++ Movies & series.
++ Music
++Video games
++programming
++sports
+
 Syntax highlighted code block
 
 # Header 1
