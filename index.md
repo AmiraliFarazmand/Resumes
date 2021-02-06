@@ -1,5 +1,5 @@
 
- <html>
+
  
 ## Hi !
 
@@ -27,8 +27,6 @@
 - [GitHub](http://github.com/AmiraliFarazmand) 
 - [Instagram](https://www.instagram.com/amiralifrzmnd/)
 - [my E-mail](amiralifm1407@gmail.com)
-
-
 
 
 
