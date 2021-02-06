@@ -11,24 +11,23 @@
 
 
 ## I'm intrested in:
--Movies & series.
+- Movies & series.
 
 - Music.
 
--Video games.
+- Video games.
 
--programming.
+- programming.
 
--sports.
+- sports.
  
  ## For more contact:
  
- instagram: [link] (www.instagram.com/amiralifrzmnd/)
-Syntax highlighted code block
+- [GitHub](http://github.com/AmiraliFarazmand) 
+- [Instagram](https://www.instagram.com/amiralifrzmnd/)
+- [my E-mail](amiralifm1407@gmail.com)
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
