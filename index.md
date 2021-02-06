@@ -1,6 +1,6 @@
 ## Hi!
 
-<block qoute>My name is <b>*Amirali Farazmand* <\b> and this is my first github repository!
+<block qoute>My name is <b>*Amirali Farazmand*  and this is my first github repository!
 
 I've been born in Isfahan but I've lived in Tehran since I was 5.
 
