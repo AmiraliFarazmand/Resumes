@@ -5,12 +5,12 @@
 
 # My name is  _Amirali Farazmand_ and this is my first github repository!
 
-#### I've been born in _Isfahan_ but I've lived in _Tehran_ since I was 5.
+#### I've been born in _Isfahan_ but I've lived in _Tehran_ since I was 5 and...
 
 
 
 ## Status:
-#### Now,at the age of 19,I'm a student of _C.E_ at _IUST_ university.
+#### Now,at the age of 19;I'm a student of _C.E_ at _IUST_ university.
 
 
 
