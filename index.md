@@ -1,10 +1,10 @@
-## Hi!
+##Hi !
 
-<block qoute>My name is <b>*Amirali Farazmand*  and this is my first github repository!
+####My name is <b>*Amirali Farazmand*  and this is my first github repository!
 
 I've been born in Isfahan but I've lived in Tehran since I was 5.
 
-### Markdown
+### Status
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
