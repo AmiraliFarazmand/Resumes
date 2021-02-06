@@ -1,3 +1,5 @@
+<html>
+ 
 ## Hi !
 
 # My name is  **_Amirali Farazmand_** and this is my first github repository!
@@ -10,14 +12,14 @@
 
 ## I'm intrested in:
 -Movies & series.
-- Music
--Video games
--programming
--sports
+- Music.
+-Video games.
+-programming.
+-sports.
  
  ## For more contact:
  
- [link](www.instagram.com/amiralifrzmnd/)
+ [instagram logo] (www.instagram.com/amiralifrzmnd/)
 Syntax highlighted code block
 
 # Header 1
