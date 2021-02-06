@@ -1,6 +1,6 @@
 # Hi !
 
-#### My name is __**Amirali Farazmand**__ and this is my first github repository!
+## My name is  **_Amirali Farazmand_** and this is my first github repository!
 
 I've been born in Isfahan but I've lived in Tehran since I was 5.
 
@@ -9,11 +9,11 @@ Now,at the age of 19,I'm a student of C.E at IUST university.
 
 
 # I'm intrested in:
-+ Movies & series.
-+ Music
-+Video games
-+programming
-+sports
+-Movies & series.
+- Music
+-Video games
+-programming
+-sports
 
 Syntax highlighted code block
 
